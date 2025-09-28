@@ -11,8 +11,6 @@
 ## Objetivo
 Acertar o maior número de perguntas e mostrar que você é um verdadeiro fã de Ghibli!
 
-## Feedback
-Se tiver sugestões ou encontrar algum problema, envie um e-mail para: **seuemail@dominio.com**
 
 ---
 
